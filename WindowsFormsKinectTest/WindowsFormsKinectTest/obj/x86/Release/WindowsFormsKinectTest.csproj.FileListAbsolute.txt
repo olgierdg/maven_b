@@ -1,0 +1,8 @@
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\bin\Release\WindowsFormsKinectTest.exe
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\bin\Release\WindowsFormsKinectTest.pdb
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.csprojResolveAssemblyReference.cache
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.Form1.resources
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.Properties.Resources.resources
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.csproj.GenerateResource.Cache
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.exe
+C:\Users\Olo\Documents\Visual Studio 2012\Projects\WindowsFormsKinectTest\WindowsFormsKinectTest\obj\x86\Release\WindowsFormsKinectTest.pdb
